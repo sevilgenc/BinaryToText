@@ -1,2 +1,2 @@
 # BinaryToText
-Çok fazla sayıdaki dosyaların içerisinde yer alan binary kodlarını metne çevirme işlemi gerçekleştirilmiştir.
+Çok fazla sayıda dosyaların içerisinde yer alan binary kodlarını metne çevirme işlemi gerçekleştirilmiştir.
